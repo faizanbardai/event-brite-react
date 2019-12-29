@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/event-brite-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/event-brite-react/static/js/main.bb2e6238.chunk.js",
+    "main.js.map": "/event-brite-react/static/js/main.bb2e6238.chunk.js.map",
+    "runtime-main.js": "/event-brite-react/static/js/runtime-main.d01f6151.js",
+    "runtime-main.js.map": "/event-brite-react/static/js/runtime-main.d01f6151.js.map",
+    "static/js/2.23d1d002.chunk.js": "/event-brite-react/static/js/2.23d1d002.chunk.js",
+    "static/js/2.23d1d002.chunk.js.map": "/event-brite-react/static/js/2.23d1d002.chunk.js.map",
+    "index.html": "/event-brite-react/index.html",
+    "precache-manifest.bdddc2e285f968426cae6443d2841358.js": "/event-brite-react/precache-manifest.bdddc2e285f968426cae6443d2841358.js",
+    "service-worker.js": "/event-brite-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/event-brite-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.23d1d002.chunk.js.LICENSE": "/event-brite-react/static/js/2.23d1d002.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d01f6151.js",
+    "static/js/2.23d1d002.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bb2e6238.chunk.js"
+  ]
+}
